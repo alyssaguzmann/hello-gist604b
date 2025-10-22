@@ -16,7 +16,7 @@ def main():
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
     
     # Add your own message here!
-    print("[ADD YOUR OWN MESSAGE ABOUT WHY YOU'RE INTERESTED IN GIS]")
+    print("I'm interested in using GIS for environmental projects and oceanography.")
 
 if __name__ == "__main__":
     main()
